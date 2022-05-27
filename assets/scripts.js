@@ -18,6 +18,7 @@ const jsonMapNames = {
   dw: "daniel-wendt",
   sm: "saqib-mir",
   bf: "benjamin-finn",
+  gp: "group-process",
   
 };
 for (let i = 0; i < clickableList.length; i++) {
